@@ -9,22 +9,16 @@ h1{
 }
 .first-container{
   background-color: #E4F9F5;
-  padding: 20px;
-  height: 200px;
-  width: 200px;
-  border:10px solid;
+
 }
 .second-container{
   height: 200px;
   width: 200px;
   background-color: red;
-  margin-left: 260px;
-  border:20px solid;
+
 }
 .third-container{
   height: 200px;
   width: 200px;
   background-color: blue;
-  margin-left: 500px;
-  border:10px solid;
 }
