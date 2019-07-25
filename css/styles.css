@@ -18,16 +18,15 @@ h2,h3{
   position: relative;
   padding-top:100px;
 }
-.second-container{
-  height: 200px;
-  width: 200px;
-  background-color: red;
+.middle-container{
+
 
 }
-.third-container{
-  height: 200px;
-  width: 200px;
-  background-color: blue;
+.bottom-container{
+
+}
+.mainpic{
+  border-radius: 100%;
 }
 .pro{
   text-decoration: underline;
